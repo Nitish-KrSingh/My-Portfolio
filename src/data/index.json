@@ -1,0 +1,155 @@
+{
+    "skills":[
+      {
+        "id": "1",
+        "src": "./img/feather-pen-2.png",
+        "title": "language",
+        "list" :
+        [
+            {
+              "name": "Java",
+              "src" : "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"
+            },
+            {
+              "name": "C",
+              "src" : "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg"
+            },
+            {
+              "name": "C++",
+              "src" : "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+            },
+            {
+              "name": "Python",
+              "src" : "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"
+            }
+        ]
+       
+      },
+            {
+            "id": "2",
+            "src": "./img/product-chain-1.png",
+            "title": "Front-End",
+            "list" :
+            [
+                {
+                  "name": "ReactJS",
+                  "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
+                },
+                {
+                  "name": "JavaScript",
+                  "src" : "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+                },
+                {
+                  "name": "CSS",
+                  "src" : "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+                },
+                {
+                  "name": "HTML",
+                  "src" : "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"
+                },
+                {
+                  "name": "Bootstrap",
+                  "src" : "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"
+                }
+            ]
+            
+          },
+          {
+            "id": "3",
+            "src": "./img/tag-1.png",
+            "title": "Back-End",
+            "list" :
+            [
+                {
+                  "name": "SpringBoot",
+                  "src" : "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"
+                },
+                {
+                  "name": "Node.js",
+                  "src" : "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"
+                }
+            ]
+          },
+          {
+            "id": "4",
+            "src": "./img/database.png",
+            "title": "DataBase",
+            "list" :
+            [
+                {
+                  "name": "MySQL",
+                  "src" : "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"
+                },
+                {
+                  "name": "MongoDB",
+                  "src" : "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"
+                },
+                {
+                  "name": "SQLite",
+                  "src" : "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain-wordmark.svg"
+                }
+            ]
+          },
+          {
+            "id": "5",
+            "src": "./img/feather-pen-1.png",
+            "title": "Others",
+            "list" :
+            [
+                {
+                  "name": "Android Studio",
+                  "src" : "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain-wordmark.svg"
+                },
+                {
+                  "name": "Photoshop",
+                  "src" : "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
+                },
+                {
+                  "name": "Canva",
+                  "src" : "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
+                },
+                {
+                  "name": "Figma",
+                  "src" : "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+                },
+                {
+                  "name": "JIRA",
+                  "src" : "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"
+                },
+                {
+                  "name": "GIT",
+                  "src" : "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"
+                }
+                
+
+            ]
+          }
+
+
+
+    ],
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "./img/p2.jpg",
+        "title": "ApnaScheme",
+        "description": "ApnaScheme web app streamlines government scheme access. Simplify search, apply, and manage. Empower citizens for efficient benefit utilization with user-friendly features. MongoDB, React JS, NodeJS used for seamless experience.",
+        "link": "View In Github"
+      },
+      {
+        "id": "2",
+        "src": "./img/p3.png",
+        "title": "SLCM App",
+        "description": "Enhances student-faculty interaction, academic efficiency. Mobile-friendly, extends SLCM website features. Built in Java, Android for seamless experience.",
+        "link": "View In Github"
+      },
+      {
+        "id": "3",
+        "src": "./img/placeholder-image-2.png",
+        "title": "Sample",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique. Suspenmdisse varius eim in eros elementum tristique",
+        "link": "View In Github"
+      }
+    ]
+
+}
