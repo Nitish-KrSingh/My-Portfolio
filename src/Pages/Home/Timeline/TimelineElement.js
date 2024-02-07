@@ -1,11 +1,11 @@
-let timelineElement = [
+ export let timelineElement = [
     {
         id : 1,
         title1 : "Manipal Institute of Technology",
         title2 : "Master of Computer Application",
         location : "Manipal",
         descrption : "CGPA: 7.06*",
-        date : "Sep 2022 – Present",
+        date : "Sep 2022 – July 2024",
         icon : "school",
     },
     {
@@ -19,15 +19,6 @@ let timelineElement = [
     },
     {
         id : 3,
-        title1 : "Gossner College	Ranchi",
-        title2 : "Bachelor of Computer Application",
-        location : "Ranchi",
-        descrption : "79.88 %",
-        date : "June 2017 – Nov 2020",
-        icon : "school",
-    },
-    {
-        id : 4,
         title1 : "Usha Martin Ltd",
         title2 : "Administrative Intern",
         location : "Ranchi",
@@ -35,6 +26,16 @@ let timelineElement = [
         date : "Dec 2019 – Feb 2020",
         icon : "work",
     },
+    {
+        id : 4,
+        title1 : "Gossner College	Ranchi",
+        title2 : "Bachelor of Computer Application",
+        location : "Ranchi",
+        descrption : "79.88 %",
+        date : "June 2017 – Nov 2020",
+        icon : "school",
+    },
+
     {
         id : 5,
         title1 : "DAV Public School",
@@ -45,3 +46,4 @@ let timelineElement = [
         icon : "school",
     }
 ]
+
