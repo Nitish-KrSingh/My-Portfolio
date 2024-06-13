@@ -152,6 +152,7 @@ h2 {
 
 /* Navbar Style Start */
 .navbar {
+  z-index: 10;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -227,6 +228,7 @@ h2 {
   color: var(--darkblue);
   font-size: 20px;
   font-weight: 400;
+  text-align: justify;
   line-height: 30px;
 }
 .hero--section--img {
@@ -369,14 +371,18 @@ h2 {
   flex-direction: column;
   align-items: flex-start;
   gap: 80px;
+  z-index: -2;
 }
 
 .vertical-timeline-element-content{
   box-shadow: 0 0.25em 0 0.6em 0 rgba(0, 0, 0, 0.25),0 0.4em 1.25 0 rgba(0, 0, 0, 0.15);
+  z-index: -10;
 }
 
 .timeline--content-description{
 margin: 1.5em 0 2em 0;
+z-index: -10;
+
 }
 
 /* Time line end */
@@ -409,17 +415,14 @@ margin: 1.5em 0 2em 0;
   justify-content: center;
   gap: 42.6px;
   width: 100%;
+  
 }
-.portfolio--section--img {
+/* .portfolio--section--img {
  
   border-radius: 8px;
   width: 100%;
-}
-.portfolio--section--img > img {
+} */
 
-  border-radius: 8px;
-  width: 100%;
-}
 .portfolio--section--card {
   display: flex;
   flex-direction: column;
@@ -432,6 +435,12 @@ margin: 1.5em 0 2em 0;
   border-top-left-radius: 12px;
   border-top-right-radius: 12px;
 }
+
+.portfolio--section--img > img {
+  border-radius: 8px;
+  width: 100%;
+}
+
 .portfolio--section--card--content {
   display: flex;
   padding: 32px;
@@ -439,6 +448,7 @@ margin: 1.5em 0 2em 0;
   align-items: flex-start;
   gap: 32px;
   align-self: stretch;
+  text-align: justify;
 }
 .portfolio--section--title {
   color: var(--heading-color);

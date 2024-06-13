@@ -15,7 +15,7 @@ let schooliconstyle ={background : "#F9C74f"}
     <section  className="timeline--section">
     <h2 className="section--heading">Experience & Education</h2>
       <div className='timeline--content'>   
-      <VerticalTimeline>
+      <VerticalTimeline >
           {
             timelineElement.map(element => {
               let isWorkicon = element.icon === "work";
