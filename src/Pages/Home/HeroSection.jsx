@@ -12,7 +12,7 @@ export default function HeroSection() {
           Developer
         </h1>
         <p className="hero--section-description">
-        Driven MCA student with a knack for React, Java, and MongoDB.
+        Driven MCA student with a knack for Next.js ,React, Java, SpringBoot , Power BI, SQL,  and MongoDB.
          From impactful roles at TCS to cutting-edge project development,
         I bring tech expertise to the table.  <br /> Explore my journey! 🚀 #TechInnovator #DeveloperJourney
         </p>

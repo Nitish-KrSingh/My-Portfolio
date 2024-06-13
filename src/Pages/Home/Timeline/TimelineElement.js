@@ -4,8 +4,8 @@
         title1 : "Manipal Institute of Technology",
         title2 : "Master of Computer Application",
         location : "Manipal",
-        descrption : "CGPA: 7.06*",
-        date : "Sep 2022 – July 2024",
+        descrption : "CGPA: 7.5*",
+        date : "Sep 2022 – May 2024",
         icon : "school",
     },
     {

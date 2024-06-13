@@ -131,25 +131,26 @@
     "portfolio": [
       {
         "id": "1",
+        "src": "./img/p1.png",
+        "title": "CodeChoice",
+        "description": "A comprehensive platform for job placement preparation, practice modules, real-time challenges, daily job updates,contest tracking, performance analytics, technical courses, and community interaction, ensuring holistic career development",
+        "link": "View In Github"
+      },
+      {
+        "id": "2",
         "src": "./img/p2.jpg",
         "title": "ApnaScheme",
         "description": "ApnaScheme web app streamlines government scheme access. Simplify search, apply, and manage. Empower citizens for efficient benefit utilization with user-friendly features. MongoDB, React JS, NodeJS used for seamless experience.",
         "link": "View In Github"
       },
       {
-        "id": "2",
+        "id": "3",
         "src": "./img/p3.png",
         "title": "SLCM App",
         "description": "Enhances student-faculty interaction, academic efficiency. Mobile-friendly, extends SLCM website features. Built in Java, Android for seamless experience.",
         "link": "View In Github"
-      },
-      {
-        "id": "3",
-        "src": "./img/placeholder-image-2.png",
-        "title": "Sample",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique. Suspenmdisse varius eim in eros elementum tristique",
-        "link": "View In Github"
       }
+   
     ]
 
 }
